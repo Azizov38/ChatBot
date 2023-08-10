@@ -4,7 +4,7 @@ const showBtn = document.querySelector('.show-chatbot-toggle'),
       messageIntput = document.querySelector('.textarea'),
       chatBox = document.querySelector('.chatbox');
 
-const API_KEY = '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'
+const API_KEY = "YOUR API KEY HERE"
 
 
 let userMessage;
